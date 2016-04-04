@@ -1,0 +1,17 @@
+using System;
+
+
+namespace CurrentDateanimedT
+{
+    class CurrentDateandTime
+    {
+        static void Main()
+        {
+            // use class DateTime
+            var date = DateTime.Now;
+            Console.WriteLine(date);
+        }
+    }
+}
+# Introduction-to-Programming
+CSharp-Part1
